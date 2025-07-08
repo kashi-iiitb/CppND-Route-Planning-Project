@@ -52,6 +52,11 @@ Or to specify a map file:
 ```
 ./OSM_A_star_search -f ../<your_osm_file.osm>
 ```
+Input: Give start x,y and end x,y coordinates like below  
+10  
+10  
+90  
+90  
 
 ## Testing
 
